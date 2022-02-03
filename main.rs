@@ -25,6 +25,7 @@ Features:
         -- Potency (more damage, more effect of use items, less health) [Silicomancer Class]
 
 - ROGUELIKE BASE PACK:
+    - Action RPG, no turns. Pause for complicated actions?
     - Similar to default, but each character is a new run in a smaller world with a clear final boss
     - Pillars of a roguelike: Pickups, Combat, Procedural, Meta Progression, Permadeath,
     - PICKUPS:
