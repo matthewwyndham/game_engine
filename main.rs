@@ -52,6 +52,10 @@ Features:
         -| Creative Mode (to test strategies, unlocked by beating boss 7 times?)
         -| (the only save file)
     - Permadeath (no saving characters, but achievements are saved right away, and all earned currency is added right away)
+    - When you boot up the game there are no difficulty options or anything, you just jump in. 
+        - Beat the boss on normal mode, unlock hard mode: faster & stronger enemies, more money, better loot, faster gameplay. 
+        - Multiple difficulty levels. 
+        - Final unlock is creative mode where you can experiment with different item combos.
 */
 
 // roguelike game first
